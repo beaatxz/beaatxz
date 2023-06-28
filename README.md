@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @beaatxz
 - 👀 I’m interested in por dinheiro
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning a usar o Github 
 - 📫 How to reach me beatriz.donassolo.rosa@escola.pr.gov.br
